@@ -16,7 +16,7 @@ I become lazy to download tracks from my old Garmin GPS regularly so they piled 
 - saves the image
 
 # Notes
-- few things are hardcoded in different places, sorry for that
+- few things are hardcoded at different places, sorry for that
 
 # Result (example)
 ![20120812.png](http://i.imgur.com/NU9OcGb.png)
